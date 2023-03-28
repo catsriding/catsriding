@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Constantly Challenging myself,<br>
+  Constantly challenging myself,<br>
   Learning hard & soft skills,<br>
   Valuing collaboration<br>
   To become a better developer.<br>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Java-073642?style=plastic&logo=OpenJDK">
   <img src="https://img.shields.io/badge/Spring-073642?style=plastic&logo=Spring">
   <img src="https://img.shields.io/badge/Spring Boot-073642?style=plastic&logo=Spring Boot">
-  <img src="https://img.shields.io/badge/Hibernate-073642?style=plastic&logo=Hibernate">
+  <img src="https://img.shields.io/badge/ORM-073642?style=plastic&logo=Hibernate">
   <img src="https://img.shields.io/badge/MySQL-073642?style=plastic&logo=MySQL">
   <img src="https://img.shields.io/badge/Redis-073642?style=plastic&logo=Redis">
 </p>
