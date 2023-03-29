@@ -1,4 +1,7 @@
-<h1>🏰 Welcome! I'm <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">Jynn 👋🏻</a></h1>
+<h1>🏰 Hello, Cats!</h1>
+<p>
+ I'm <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">Jynn 👋🏻</a>, backend developer from Seoul 🇰🇷
+</p>
 <h2>About 🐱</h2>
 <img align="left" src="/Jynn.png" width="340px" height="340px">
 
@@ -9,33 +12,33 @@
 
 <br>
 
-<p>
-  코드 한 줄 한 줄 써내려가는 일련의 과정이 모여<br>
+<p>코드 한 줄 한 줄 써내려가는 일련의 과정이 모여<br>
   세상을 바꿀 수 있는 작은 힘이 되고<br>
   많은 사람들의 삶을 바꿀수 있는<br>
   이 세계에 푹 빠져있습니다 🤤
 </p>
+
 <p>
   더 나은 개발자가 되기 위해<br>
   끊임없이 도전하고 역량을 강화합니다 🗡️ ⁺³
 </p>
 
-<p align="left">
+<p>
   <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">
     <img src="https://img.shields.io/badge/BLOG-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
   </a>
   <a href="https://mobile.twitter.com/catsriding" target="_blank" rel="nofollow noopener noreferrer">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-    <a href="mailto: catsriding@gmail.com">
+  <a href="mailto: catsriding@gmail.com">
     <img src="https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
 
-<br>
+<br><br>
 
 <h2>Skills 🥋</h2>
-<h3>🌊 DEEP DIVE</h3>
+<h3>🌊 WAVES</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-fc384c?style=plastic&logo=OpenJDK">
   <img src="https://img.shields.io/badge/Spring-006759?style=plastic&logo=Spring">
