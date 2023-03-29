@@ -1,18 +1,24 @@
 <h1>🏰 Welcome! I'm <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">Jynn 👋🏻</a></h1>
 <h2>About 🐱</h2>
-<img align="left" src="/Jynn.png" width="25%" height="25%">
+<img align="left" src="/Jynn.png" width=31%" height="31%">
 
-🙏🏻 안녕하세요!<br>
-🪪 쥬니어 백엔드 개발자 <strong>Jynn</strong>입니다.<br>
+<p>
+  🙏🏻 안녕하세요!<br>
+  🪪 쥬니어 백엔드 개발자 <strong>Jynn</strong>입니다.
+</p>
 
-코드 한 줄 한 줄 써내려가는 일련의 과정이 모여<br>
-세상을 바꿀 수 있는 작은 힘이 되고<br>
-많은 사람들의 삶을 바꿀수 있는<br>
-이 세계에 푹 빠져있습니다 🤤
+<br>
 
-
-더 나은 개발자가 되기 위해<br>
-끊임없이 도전하고 역량을 강화합니다 🗡️ ⁺³
+<p>
+  코드 한 줄 한 줄 써내려가는 일련의 과정이 모여<br>
+  세상을 바꿀 수 있는 작은 힘이 되고<br>
+  많은 사람들의 삶을 바꿀수 있는<br>
+  이 세계에 푹 빠져있습니다 🤤
+</p>
+<p>
+  더 나은 개발자가 되기 위해<br>
+  끊임없이 도전하고 역량을 강화합니다 🗡️ ⁺³
+</p>
 
 <p align="left">
   <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">
