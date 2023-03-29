@@ -23,6 +23,8 @@
   끊임없이 도전하고 역량을 강화합니다 🗡️ ⁺³
 </p>
 
+<br>
+
 <p>
   <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">
     <img src="https://img.shields.io/badge/BLOG-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
