@@ -1,24 +1,20 @@
-<p align="center">
-  <img src="/Jynn.png" width="25%" height="25%">
-</p>
+<h1>🏰 Welcome! I'm <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">Jynn 👋🏻</a></h1>
+<h2>About 🐱</h2>
+<img align="left" src="/Jynn.png" width="25%" height="25%">
 
-<p align="center">
-  👋🏻 Hello, I'm <strong>Jynn</strong> 🐈<br>
-  <i>Junior Backend Developer</i><br>
-</p>
-<p align="center">
-  Love using Java, Spring, JPA, and QueryDSL<br>
-  Interested in Object-Oriented Programming and Application Architecture.
-</p>
+🙏🏻 안녕하세요!<br>
+🪪 쥬니어 백엔드 개발자 <strong>Jynn</strong>입니다.<br>
 
-<p align="center">
-  Constantly challenging myself,<br>
-  Learning hard & soft skills,<br>
-  Valuing collaboration<br>
-  To become a better developer.<br>
-</p>
+코드 한 줄 한 줄 써내려가는 일련의 과정이 모여<br>
+세상을 바꿀 수 있는 작은 힘이 되고<br>
+많은 사람들의 삶을 바꿀수 있는<br>
+이 세계에 푹 빠져있습니다 🤤
 
-<p align="center">
+
+더 나은 개발자가 되기 위해<br>
+끊임없이 도전하고 역량을 강화합니다 🗡️ ⁺³
+
+<p align="left">
   <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">
     <img src="https://img.shields.io/badge/BLOG-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
   </a>
@@ -30,50 +26,50 @@
   </a>
 </p>
 
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-073642?style=plastic&logo=OpenJDK">
-  <img src="https://img.shields.io/badge/Spring-073642?style=plastic&logo=Spring">
-  <img src="https://img.shields.io/badge/Spring Boot-073642?style=plastic&logo=Spring Boot">
-  <img src="https://img.shields.io/badge/ORM-073642?style=plastic&logo=Hibernate">
-  <img src="https://img.shields.io/badge/MySQL-073642?style=plastic&logo=MySQL">
-  <img src="https://img.shields.io/badge/Redis-073642?style=plastic&logo=Redis">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS">
-  <img src="https://img.shields.io/badge/EC2-232F3E?style=plastic&logo=Amazon EC2">
-  <img src="https://img.shields.io/badge/RDS-232F3E?style=plastic&logo=Amazon RDS">
-  <img src="https://img.shields.io/badge/S3-232F3E?style=plastic&logo=Amazon S3">
-  <img src="https://img.shields.io/badge/Docker-232F3E?style=plastic&logo=Docker">
-  <img src="https://img.shields.io/badge/Prometheus-232F3E?style=plastic&logo=Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-232F3E?style=plastic&logo=Grafana">
-</p>
-
-<p align="center">
+<h2>Skills 🥋</h2>
+<h3>🌊 DEEP DIVE</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-fc384c?style=plastic&logo=OpenJDK">
+  <img src="https://img.shields.io/badge/Spring-006759?style=plastic&logo=Spring">
+  <img src="https://img.shields.io/badge/Spring Boot-006759?style=plastic&logo=Spring Boot">
+  <img src="https://img.shields.io/badge/ORM-006759?style=plastic&logo=Hibernate">
+  <img src="https://img.shields.io/badge/JUnit-155a37?style=plastic&logo=JUnit5">
+  <img src="https://img.shields.io/badge/MySQL-043b5a?style=plastic&logo=MySQL">
+  <img src="https://img.shields.io/badge/Redis-043b5a?style=plastic&logo=Redis">
+  <img src="https://img.shields.io/badge/Maven-a5172e?style=plastic&logo=Apache Maven">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=Gradle">
+  <img src="https://img.shields.io/badge/Tomcat-36311f?style=plastic&logo=Apache Tomcat">
   <img src="https://img.shields.io/badge/Git-181717?style=plastic&logo=Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub">
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Docker-232F3E?style=plastic&logo=Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS">
+  <img src="https://img.shields.io/badge/Prometheus-232F3E?style=plastic&logo=Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-232F3E?style=plastic&logo=Grafana">
   <img src="https://img.shields.io/badge/Vue.js-012B36?style=plastic&logo=Vue.js">
   <img src="https://img.shields.io/badge/Nuxt.js-012B36?style=plastic&logo=Nuxt.js">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JetBrains-12054E?style=plastic&logo=JetBrains">
-  <img src="https://img.shields.io/badge/GitKraken-12054E?style=plastic&logo=GitKraken">
-  <img src="https://img.shields.io/badge/iTerm2-12054E?style=plastic&logo=iTerm2">
-  <img src="https://img.shields.io/badge/JMeter-12054E?style=plastic&logo=Apache JMeter">
-  <img src="https://img.shields.io/badge/Sketch-12054E?style=plastic&logo=Sketch">
-  <img src="https://img.shields.io/badge/Alfred-12054E?style=plastic&logo=Alfred">
-  <img src="https://img.shields.io/badge/Obsidian-12054E?style=plastic&logo=Obsidian">
+<br>
+
+<h3>⛏️ TOOLS</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Apple-000000?style=plastic&logo=Apple">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-ff2d74?style=plastic&logo=IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/WebStorm-006396?style=plastic&logo=WebStorm">
+  <img src="https://img.shields.io/badge/DataGrip-b855cc?style=plastic&logo=DataGrip">
+  <img src="https://img.shields.io/badge/GitKraken-003242?style=plastic&logo=GitKraken">
+  <img src="https://img.shields.io/badge/iTerm2-00143d?style=plastic&logo=iTerm2">
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=plastic&logo=Apache JMeter">
+  <img src="https://img.shields.io/badge/Sketch-1b479d?style=plastic&logo=Sketch">
+  <img src="https://img.shields.io/badge/Alfred-5C1F87?style=plastic&logo=Alfred">
+  <img src="https://img.shields.io/badge/Homebrew-442800?style=plastic&logo=Homebrew">
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian">
   <img src="https://img.shields.io/badge/ClickUp-12054E?style=plastic&logo=ClickUp">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apple-000000?style=plastic&logo=Apple">
-</p>
+<br>
 
 <p align="center">
   🏀
