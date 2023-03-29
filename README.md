@@ -1,6 +1,6 @@
 <h1>🏰 Welcome! I'm <a href="https://catsriding.dev" target="_blank" rel="nofollow noopener noreferrer">Jynn 👋🏻</a></h1>
 <h2>About 🐱</h2>
-<img align="left" src="/Jynn.png" width=31%" height="31%">
+<img align="left" src="/Jynn.png" width="340px" height="340px">
 
 <p>
   🙏🏻 안녕하세요!<br>
