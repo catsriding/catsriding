@@ -29,7 +29,7 @@
 
 <p>
   <a href="https://catsriding.app" target="_blank" rel="nofollow noopener noreferrer">
-    <img src="https://img.shields.io/badge/BLOG-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
+    <img src="https://img.shields.io/badge/BLOG-04041B?style=for-the-badge&logo=Next.js&logoColor=white">
   </a>
   <a href="https://mobile.twitter.com/catsriding" target="_blank" rel="nofollow noopener noreferrer">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
