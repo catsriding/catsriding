@@ -29,11 +29,9 @@
 
 <p>
   <a href="https://catsriding.app" target="_blank" rel="nofollow noopener noreferrer">
-    <img src="https://img.shields.io/badge/BLOG-04041B?style=for-the-badge&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Blog-04041B?style=for-the-badge&logo=Next.js&logoColor=white">
   </a>
   <a href="https://mobile.twitter.com/catsriding" target="_blank" rel="nofollow noopener noreferrer">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
-  </a>
   <a href="mailto: catsriding@gmail.com">
     <img src="https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
