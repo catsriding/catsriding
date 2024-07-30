@@ -28,11 +28,11 @@
 <br>
 
 <p>
-  <a href="https://catsriding.app" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="https://www.catsriding.com" target="_blank" rel="nofollow noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-04041B?style=for-the-badge&logo=Next.js&logoColor=white">
   </a>
   <a href="https://mobile.twitter.com/catsriding" target="_blank" rel="nofollow noopener noreferrer">
-  <a href="mailto: catsriding@gmail.com">
+  <a href="mailto:jynn@catsriding.com">
     <img src="https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
