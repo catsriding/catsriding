@@ -7,7 +7,7 @@
 
 <p>
   🙏🏻 안녕하세요!<br>
-  🪪 쥬니어 백엔드 개발자 <strong>Jynn</strong>입니다.
+  🪪 쥬니어 백엔드 개발자 <strong>진</strong>입니다.
 </p>
 
 <br>
