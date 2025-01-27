@@ -1,6 +1,6 @@
 <h1>🏰 Hello, Cats!</h1>
 <p>
- I'm <a href="https://catsriding.app" target="_blank" rel="nofollow noopener noreferrer">Jynn 👋🏻</a>, backend developer from Seoul 🇰🇷
+ I'm <a href="https://catsriding.app" target="_blank" rel="nofollow noopener noreferrer">Jin 👋🏻</a>, backend developer from Seoul 🇰🇷
 </p>
 <h2>About 🐱</h2>
 <img align="left" src="/Jynn.png" width="340px" height="340px">
